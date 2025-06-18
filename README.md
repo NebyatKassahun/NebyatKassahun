@@ -1,9 +1,12 @@
 ## Hi there 👋                                              
 💫 About Me:
 
-🔭 I'm working on an estimate Full Stack developing 
+🔭 I'm working on an estimate Full Stack developer 
+
 👯 I would love to collaborate with a startup team
+
 💬 Feel free to ask me for more information about my projects
+
 ⚡ "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler.
 
 ## 🌐 Socials:
