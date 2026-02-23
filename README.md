@@ -1,4 +1,43 @@
-## Hi there 👋                                              
+# Hi 👋  I'm Nebyat Kassahun    
+
+💻 Frontend Developer | React & Tailwind  
+🚀 Building Modern Web Applications  
+📍 Addis Ababa, Ethiopia  
+
+## 🛠 Tech Stack
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Node.js
+- Prisma
+- Git & GitHub
+
+---
+
+## 🔥 Featured Projects
+
+### 📦 Stock Management System
+A full-stack dashboard for managing inventory.
+- Authentication
+- CRUD Operations
+- Dashboard UI
+- API Integration
+
+### 🎨 Modern React UI Project
+Responsive and clean Tailwind design.
+
+---
+
+## 📈 Currently Learning
+- Advanced React Patterns
+- Backend Integration
+- Clean Architecture
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/NebyatKassahun
+
 💫 About Me:
 
 🔭 I'm working on an estimate Full Stack developer 
